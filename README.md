@@ -1,2 +1,0 @@
-# YuJigun.github.io
-hello
